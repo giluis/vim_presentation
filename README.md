@@ -20,7 +20,6 @@ all flavours of UNIX.  Porting to other systems should not be very difficult.
 Older versions of Vim run on MS-DOS, MS-Windows 95/98/Me/NT/2000, Amiga DOS,
 Atari MiNT, BeOS, RISC OS and OS/2.  These are no longer maintained.
 
-For Vim9 script see [README_VIM9](README_VIM9.md).
 
 ## Distribution ##
 
