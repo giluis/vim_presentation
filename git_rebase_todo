@@ -2,7 +2,7 @@ pick 940a784 test(Component3): Add test for constructor
 pick caf6c60 fix(Component2): add common header file 
 pick 4761d3c fix(README): Add first tests
 pick a030c21 test(Component5): add test file to CMakeLists
-# pick 50a75c8 cover(req141): add necessary includes
+pick 50a75c8 cover(req141): add necessary includes
 # pick 271cc7c fix(Component6): removed unused include
 # pick a0e2032 test(Main): add expectation to test Req 238
 # pick 84de1b4 fix(Component5): fixed double free
