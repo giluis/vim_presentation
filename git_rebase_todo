@@ -8,7 +8,7 @@ pick a0e2032 test(Main): add expectation to test Req 238
 pick 84de1b4 fix(Component5): fixed double free
 pick 7ee2496 fix(Compoment2): removed unused include 
 pick c6848e1 fix(Main): add null check
-# pick cc5849c test(Main): add expectation to test Req 155
+pick cc5849c test(Main): add expectation to test Req 155
 
 # Rebase 3e77532..9bc1f64 onto 3e77532 (30 commands)
 #
